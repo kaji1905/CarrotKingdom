@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Alt_collect/1.0.0": {
+        "dependencies": {
+          "SDL2-CS.NetCore": "2.0.8"
+        },
+        "runtime": {
+          "Alt_collect.dll": {}
+        }
+      },
+      "SDL2-CS.NetCore/2.0.8": {
+        "runtime": {
+          "lib/netstandard2.0/SDL2-CS.dll": {
+            "assemblyVersion": "2.0.8.0",
+            "fileVersion": "2.0.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alt_collect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDL2-CS.NetCore/2.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nn1duzenQyZcFLkiA+hrFkOIB4+c1BbZzNyN2HqPg3+/wyaF2Yxeb8A5pbTmXoifTa3yjcURB+8CRE1GS8BpjA==",
+      "path": "sdl2-cs.netcore/2.0.8",
+      "hashPath": "sdl2-cs.netcore.2.0.8.nupkg.sha512"
+    }
+  }
+}

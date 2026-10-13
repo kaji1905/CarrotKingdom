@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "774Zufi5eaM=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Hobbies\\C#\\Alt_collect\\Carrot2\\Alt_collect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\sdl2-cs\\2.0.0\\sdl2-cs.2.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\sdl2-cs.netcore\\2.0.8\\sdl2-cs.netcore.2.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

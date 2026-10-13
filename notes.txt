@@ -1,0 +1,2 @@
+Cài đặt Nuget sau khi đã có SDL2.dll
+    dotnet add package SDL2-CS
